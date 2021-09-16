@@ -7,7 +7,7 @@ export default function Login() {
         <>
            <h1>Login to your account</h1>
            <div className="column">
-               <Illustration />
+               <Illustration page="login" />
                <LoginForm />
             </div> 
         </>
